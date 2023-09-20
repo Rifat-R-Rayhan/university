@@ -2,4 +2,5 @@
 @section('content')
     @include('client.cse.components.slider');
     @include('client.cse.components.event_news');
+    @include('client.cse.components.event');
 @endsection

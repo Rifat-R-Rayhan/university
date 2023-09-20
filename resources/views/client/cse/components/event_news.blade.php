@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-9">
-                    <h2 class="category-title">EVENT</h2>
+                    <h2 class="category-title">UPCOMING EVENT</h2>
 
                     <div class="d-md-flex post-entry-2 small-img">
                         <a href="single-post.html" class="me-4 thumbnail">
@@ -311,9 +311,9 @@
                     <div class="aside-block">
                         <h3 class="aside-title">Video</h3>
                         <div class="video-post">
-                            <a href="https://www.youtube.com/watch?v=AiFfDjmd0jU" class="glightbox link-video">
+                            <a href="https://www.youtube.com/watch?v=ZgxK4OlWkm4" class="glightbox link-video">
                                 <span class="bi-play-fill"></span>
-                                <img src="assets/img/post-landscape-5.jpg" alt="" class="img-fluid">
+                                <img src="uni-image/event3.jpg" alt="" class="img-fluid">
                             </a>
                         </div>
                     </div><!-- End Video -->
