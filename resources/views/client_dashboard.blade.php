@@ -1,0 +1,9 @@
+@extends('client.layouts.masterlayout')
+@section('content')
+    @include('client.components.slider')
+    @include('client.components.counters')
+    @include('client.components.news_list')
+    @include('client.components.why_choose')
+    @include('client.components.box')
+    @include('client.components.partner')
+@endsection
