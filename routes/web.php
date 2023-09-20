@@ -13,3 +13,7 @@ Route::controller(UserController::class)->group(function(){
     Route::get('/admission-information', 'admissionInfo')->name('admission-information');
     Route::get('/board-of-trustees', 'boardOfTrustees')->name('board-of-trustees');
 });
+
+Route::get('/nub-cse', function(){
+    return view('client.cse.cse_dashboard');
+})->name('nub-cse');

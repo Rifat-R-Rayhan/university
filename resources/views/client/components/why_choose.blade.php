@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12 col-lg-6 p-0 image-container translate-effect-right wow fadeInLeft mb-3 mb-md-0"
                 data-wow-delay="1s" data-wow-duration="1.5s">
-                <img src="uni-image/Northern-University.jpg" alt="" class="w-100 h-100">
+                <img src="uni-image/mukim.jpg" alt="" class="w-100 h-100">
             </div>
             <div class="col-12 col-lg-6 bg-white px-6 py-3 py-md-5 wow fadeInRight" data-wow-delay="1s"
                 data-wow-duration="1.5s">

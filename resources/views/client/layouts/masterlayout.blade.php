@@ -142,7 +142,7 @@
                                             <ul class="dropdown-menu">
                                                 <li><a class="dropdown-item dropdown-toggle" href="#">Faculty of Science and Engineerinnnn</a>
                                                     <ul class="dropdown-menu">
-                                                        <li><a class="dropdown-item" href="header1-transparent.html">Computer Science & Engineering</a></li>
+                                                        <li><a class="dropdown-item" href="{{route('nub-cse')}}">Computer Science & Engineering</a></li>
                                                         <li><a class="dropdown-item" href="header1-light.html">Electrical & Electronic Engineering</a></li>
                                                         <li><a class="dropdown-item" href="header1-dark.html">Textile Engineering</a></li>
                                                     </ul>
