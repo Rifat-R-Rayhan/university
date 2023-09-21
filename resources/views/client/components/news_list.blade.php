@@ -1,5 +1,5 @@
 <!-- Start page content -->
-<div class="fables-page-content bg-primary">
+<div class="fables-page-content" style="background-color: rgb(78, 78, 238)">
     <div class="container">
         <div class="fables-blog-slider">
             <div class="row">

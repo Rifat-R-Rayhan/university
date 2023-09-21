@@ -97,6 +97,7 @@ body{
 }
 .dropdown-toggle::after {
     display: none;
+    color: black;
 }
 #search input[type="search"] {
     position: absolute;
@@ -3431,4 +3432,8 @@ a.toggle-menu{
     border-right: 0 !important;
     border-left: 0 !important;
     border-radius: 0;
+}
+
+a .nav-link{
+    color: black;
 }

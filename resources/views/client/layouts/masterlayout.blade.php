@@ -102,7 +102,7 @@
     <!-- /End Top Header -->
 
     <!-- Start Fables Navigation -->
-    <div class="fables-navigation bg-primary py-3 py-lg-0">
+    <div class="fables-navigation py-3 py-lg-0" style="background-color: white; color: black;">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-10 col-lg-12 pr-md-0">
@@ -264,18 +264,22 @@
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link" href="{{route('contact')}}" id="sub-nav7">
-                                        Contact Us
+                                        Contact
+                                    </a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="open-search nav-link">
+                                        <span class="fables-iconsearch-icon text-dark"></span>
                                     </a>
                                 </li>
                             </ul>
-
                         </div>
                     </nav>
                 </div>
             </div>
         </div>
     </div>
-    <!-- /End Fables Navigation -->
+                    <!-- /End Fables Navigation -->
 
 
 

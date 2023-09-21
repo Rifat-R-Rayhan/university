@@ -6,4 +6,5 @@
     @include('client.components.why_choose')
     @include('client.components.box')
     @include('client.components.partner')
+    @include('client.components.tution_fee')
 @endsection
